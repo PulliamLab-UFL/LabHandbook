@@ -10,3 +10,4 @@ Table of Contents
 4. [Journal Watch](journalWatch.md)
 5. [Purchasing](purchasing.md)
 6. [Travel](travel.md)
+7. [Lab Members](labMembers.md)
