@@ -4,7 +4,7 @@ The Pulliam Lab Handbook
 
 Table of Contents
 
-1. Software
-2. Lab Meetings
-3. Weekly meetings
-4. Journal watch
+1. [Software](software.md)
+2. [Lab Meetings](labMeetings.md)
+3. [Weekly Meetings](weeklyMeetings.md)
+4. [Journal Watch](journalWatch.md)
