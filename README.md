@@ -8,3 +8,5 @@ Table of Contents
 2. [Lab Meetings](labMeetings.md)
 3. [Weekly Meetings](weeklyMeetings.md)
 4. [Journal Watch](journalWatch.md)
+5. [Purchasing](purchasing.md)
+6. [Travel](travel.md)
