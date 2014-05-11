@@ -12,6 +12,8 @@ Lab meetings are held on Fridays from 1-2 in the second floor conference room at
 
 ### Summer 2014
 
+This summer, we will read a selection of 
+
 ### Spring 2014
 
 ### Fall 2013
