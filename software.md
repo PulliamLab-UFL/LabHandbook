@@ -4,8 +4,8 @@
 
 - [**Mendeley**](http://www.mendeley.com) - reference management software (used for [Journal Watch](journalWatch.md))
 - **Git** - version control software
-- [R](http://r-project.org/) - statistical programming language
-- [R Studio](http://rstudio.org/) - powerful user interface for R
+- [**R**](http://r-project.org/) - statistical programming language
+- [**R Studio**](http://rstudio.org/) - powerful user interface for R
 
 ## Required user accounts
 
