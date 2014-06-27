@@ -14,7 +14,7 @@ Lab meetings are held on Fridays from 1-2pm at [EPI](http://epi.ufl.edu "EPI @ U
 
 Summer lab meetings will be held in the first floor conference room (biomaths wing).
 
-[See this repository.](https://github.com/PulliamLab-UFL/summer2014)
+[See this repository for more information.](https://github.com/PulliamLab-UFL/summer2014)
 
 ### Spring 2014
 
