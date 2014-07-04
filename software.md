@@ -14,8 +14,8 @@ subtitle: Software
 ## Required user accounts
 
 - [**Mendeley**](http://www.mendeley.com)
-- [**GitHub**](http://www.github.com) (You can request up to 5 free private repositories if you sign up with your University email address, by filling out [this form](
-https://education.github.com/discount_requests/new).)
+- [**GitHub**](http://www.github.com) - You can request up to 5 free private repositories if you sign up with your University email address, by filling out [this form](
+https://education.github.com/discount_requests/new).
 
 ## Recommended software
 
