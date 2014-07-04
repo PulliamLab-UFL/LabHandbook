@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pulliam Lab @ UF - Lab Handbook
+subtitle: Time Management
 ---
 # Prioritize tasks
 
@@ -23,5 +24,5 @@ Consider the following aspects of the things you need to get done in order to he
 
 # Systems to try
 - [Wunderlist](http://wunderlist.com/)
-- [Asana](http://asana.com)
+- [Asana](http://asana.com) - **recommended**
 - [JP's spreadsheet](https://dl.dropboxusercontent.com/u/40277704/ToDo_Template.xlsx)

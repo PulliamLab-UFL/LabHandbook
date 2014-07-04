@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Pulliam Lab @ UF - Lab Handbook
+subtitle: Lab Meetings
 ---
-# Lab meetings
 
 ## Expectations
 

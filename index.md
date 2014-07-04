@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pulliam Lab @ UF - Lab Handbook
+subtitle: Table of Contents
 ---
 The Pulliam Lab Handbook
 ============
