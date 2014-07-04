@@ -6,7 +6,7 @@ subtitle: Lab Meetings
 
 ## Expectations
 
-All [lab members and affiliates](http://pulliamlab-ufl.github.io/people) are expected to attend lab meetings whenever possible and to lead 1-2 meetings per year.
+All [lab members and affiliates](http://pulliamlab-ufl.github.io/people) are expected to attend lab meetings whenever possible and to lead 1-2 meetings per year. Long-distance lab members and those who are traveling should plan to attend via [Skype](http://skype.com).
 
 ## Schedule
 
@@ -18,7 +18,7 @@ Lab meetings are held on Fridays from 1-2pm at [EPI](http://epi.ufl.edu "EPI @ U
 
 This year, summer lab meetings will focus on building foundational skills in infectious disease dynamics, through essential reading and  [exercises](http://pulliamlab-ufl.github.io/summer2014/) based on the papers we read. The exercises will also provide an opportunity to gain additional [GitHub](http://github.com/) skills and experience.
 
-[See this repository for more information.](https://github.com/PulliamLab-UFL/summer2014)
+To get started, you will need to create a branch of [this repository](https://github.com/PulliamLab-UFL/summer2014) to work in. [This file](branch.md) provides instructions for how to do this.
 
 ### Spring 2014
 
