@@ -1,3 +1,7 @@
+---
+layout: page
+title: Pulliam Lab @ UF - Lab Handbook
+---
 # Software
 
 ## Required software

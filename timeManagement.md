@@ -1,3 +1,7 @@
+---
+layout: page
+title: Pulliam Lab @ UF - Lab Handbook
+---
 # Prioritize tasks
 
 Consider the following aspects of the things you need to get done in order to help you prioritize which things to do first (listed in no particular order):
