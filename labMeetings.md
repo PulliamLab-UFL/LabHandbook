@@ -10,7 +10,7 @@ All [lab members and affiliates](http://pulliamlab-ufl.github.io/people) are exp
 
 ## Schedule
 
-Lab meetings are held on Fridays from 1-2pm at [EPI](http://epi.ufl.edu "EPI @ UF"). The **next lab meeting** will be held on (Thursday!) **July 3, 2014**.
+Lab meetings are held on Fridays from 1-2pm at [EPI](http://epi.ufl.edu "EPI @ UF"). The **next lab meeting** will be held on **July 11, 2014**.
 
 ## Topics
 
