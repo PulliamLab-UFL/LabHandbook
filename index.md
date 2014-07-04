@@ -8,5 +8,5 @@ The Pulliam Lab Handbook
 
 Table of Contents
 
-1. [Software](software.md)
-2. [Lab Meetings](labMeetings.md)
+1. [Software](software.html)
+2. [Lab Meetings](labMeetings.html)
