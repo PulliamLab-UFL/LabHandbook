@@ -7,9 +7,9 @@ subtitle: Software
 ## Required software
 
 - [**Mendeley**](http://www.mendeley.com) - reference management software (used for [Journal Watch](journalWatch.html))
-- **Git** - version control software
+- [**Git**](http://git-scm.com/) - version control software
 - [**R**](http://r-project.org/) - statistical programming language
-- [**R Studio**](http://rstudio.org/) - powerful user interface for R
+- [**R Studio**](http://rstudio.org/) - integrated development environment for R ([download](http://www.rstudio.com/products/rstudio/download/))
 
 ## Required user accounts
 
@@ -20,10 +20,10 @@ https://education.github.com/discount_requests/new).
 ## Recommended software
 
 ### For Mac Users
-- OSX command line tools
-- TeXShop - LaTeX distribution
+- Xcode command line tools - [instructions for installation](http://railsapps.github.io/xcode-command-line-tools.html)
+- [TeXShop](http://pages.uoregon.edu/koch/texshop/) - LaTeX distribution
 - [Atom](https://atom.io/)
-- GitHub's GUI<sup>1</sup>
+- [GitHub's GUI](https://mac.github.com/)<sup>1</sup>
 
 
 <sup>1</sup> GUI = graphical user interface
