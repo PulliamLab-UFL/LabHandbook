@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Pulliam Lab @ UF - Lab Handbook
+subtitle: Creating a branch
+---
 
 **(1) CLONE the repository to your desktop**
 
