@@ -14,7 +14,7 @@ Note that weekly meetings _are not_ held in the summer. If you would like to sch
 
 _A note from Juliet:_
 
-One-on-one weekly meetings are your best opportunity to get individual feedback from me.  We will necessarily need to meet for an hour each week, but I do want to touch base with each of you on at least a weekly basis during the term, and I want to make sure the time is reserved in both of our schedules in case it is needed. If you don’t think we need to meet in a given week, just _let me know at least 24 hours in advance_ and send me
+One-on-one weekly meetings are your best opportunity to get individual feedback from me.  We will not necessarily need to meet for an hour each week, but I do want to touch base with each of you on at least a weekly basis during the term, and I want to make sure the time is reserved in both of our schedules in case it is needed. If you don’t think we need to meet in a given week, just _let me know at least 24 hours in advance_ and send me
 
 - an email update on your progress, and
 - a reminder about anything you need from me before our next meeting.

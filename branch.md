@@ -10,6 +10,7 @@ This can be done from the repository's webpage (URL above):
 - Click "Clone in Desktop" on the lower right-hand side of the page and follow the instructions
 
 This can be done from within the GitHub GUI:
+
 - Go to the main list of repositories
 - On the left-hand side, you should see a place that says PulliamLab-UFL; click on this to see a list of lab repositories you have access to
 - Scroll to PulliamLab-UFL/summer2014
@@ -20,6 +21,7 @@ This can be done from within the GitHub GUI:
 **(2) create a BRANCH with your name as the name of the branch**
 
 This can be done from within the GitHub GUI:
+
 - Double click on the repository you've just added
 - Click on 'branches' in the sidebar
 - Click on the + to create a new branch
@@ -29,6 +31,7 @@ This can be done from within the GitHub GUI:
 **(3) switch to your new branch to create your code, write notes to yourself, etc**
 
 This can be done from within the GitHub GUI:
+
 - If you don't see a checkmark next to your new branch, click on the down arrow to bring up menu options, then click on 'switch to this branch'
 - All of the work you do (on this) from here on out should be on this branch
 
