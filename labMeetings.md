@@ -16,6 +16,8 @@ Lab meetings are held on Fridays from 1-2pm at [EPI](http://epi.ufl.edu "EPI @ U
 
 ### Fall 2014
 
+To be added.
+
 ### Summer 2014
 
 This year, summer lab meetings will focus on building foundational skills in infectious disease dynamics, through essential reading and  [exercises](http://www.pulliamlab.org/summer2014/) based on the papers we read. The exercises will also provide an opportunity to gain additional [GitHub](http://github.com/) skills and experience.
