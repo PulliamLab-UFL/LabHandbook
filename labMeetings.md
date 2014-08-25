@@ -10,7 +10,7 @@ All [lab members and affiliates](http://pulliamlab.org/people) are expected to a
 
 ## Schedule
 
-Lab meetings are held on Fridays from 1-2pm at [EPI](http://epi.ufl.edu "EPI @ UF"). Fall 2014 lab meetings will be held in the second floor conference room.
+Lab meetings are held on Fridays from 12:30-1:30pm at [EPI](http://epi.ufl.edu "EPI @ UF"). Fall 2014 lab meetings will be held in the second floor conference room.
 
 ## Topics
 
