@@ -16,7 +16,23 @@ Lab meetings are held on Fridays from 12:30-1:30pm at [EPI](http://epi.ufl.edu "
 
 ### Fall 2014
 
-To be added.
+Date|Presenter|Topic|
+:--:|:--:|:--:|
+Aug 29|[Becky](http://pulliamlab.org/people/borchering)|Jackal rabies project|
+Sep 5|TBA|TBA|
+Sep 12|Claudia|TBA|
+Sep 19|TBA|TBA|
+Sep 26|TBA|TBA|
+Oct 3|TBA|TBA|
+Oct 10|Jake|TBA|
+Oct 17|TBA|TBA|
+Oct 24|[Carl](http://pulliamlab.org/people/pearson)|TBA|
+Oct 31|TBA|TBA|
+Nov 7|[Luke](http://pulliamlab.org/people/trimmersmith)|TBA|
+Nov 14|Cuc|TBA|
+Nov 21|TBA|TBA|
+Dec 5|TBA|TBA|
+
 
 ### Summer 2014
 
