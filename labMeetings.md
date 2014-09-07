@@ -19,21 +19,22 @@ Lab meetings are held on Fridays from 12:30-1:30pm at [EPI](http://epi.ufl.edu "
 Date|Presenter|Topic|
 :--:|:--:|:--:|
 Aug 29|[Becky](http://pulliamlab.org/people/borchering)|Jackal rabies project|
-Sep 5|[Steph](http://pulliamlab.org/people/cinkovich)|TBA|
+Sep 5|[Steph](http://pulliamlab.org/people/cinkovich)|Parasites of western microbats|
 Sep 12|Claudia|TBA|
 Sep 19|[Jess](http://pulliamlab.org/people/rowland)|TBA|
 Sep 26|[Juliet](http://pulliamlab.org/people/pulliam)|Discussion[^read]|
-Oct 3|TBA|TBA|
-Oct 10|Jake|TBA|
-Oct 17|TBA|TBA|
+Oct 3|[Becky](http://pulliamlab.org/people/borchering)|TBA|
+Oct 10|[Jake](http://pulliamlab.org/people/ball)|TBA|
+Oct 17[^homecoming]|TBA|TBA|
 Oct 24|[Carl](http://pulliamlab.org/people/pearson)|TBA|
-Oct 31|TBA|TBA|
+Oct 31|[Jennie](http://pulliamlab.org/people/lord)|TBA|
 Nov 7|[Luke](http://pulliamlab.org/people/trimmersmith)|TBA|
 Nov 14|Cuc|TBA|
 Nov 21|TBA|TBA|
 Dec 5|TBA|TBA|
 
 [^read]: Debate over US research funding. Readings: To be posted.
+[^homecoming]: UF's Homecoming.
 
 ### Summer 2014
 
