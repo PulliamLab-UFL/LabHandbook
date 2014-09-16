@@ -20,8 +20,8 @@ Date|Presenter|Topic|
 :--:|:--:|:--:|
 Aug 29|[Becky](http://pulliamlab.org/people/borchering)|Jackal rabies project|
 Sep 5|[Steph](http://pulliamlab.org/people/cinkovich)|Parasites of western microbats|
-Sep 12|Claudia|TBA|
-Sep 19|[Jess](http://pulliamlab.org/people/rowland)|TBA|
+Sep 12|Claudia|Social media-based ID surveillance|
+Sep 19|[Jess](http://pulliamlab.org/people/rowland)|PPR eradication|
 Sep 26|[Juliet](http://pulliamlab.org/people/pulliam)|Discussion[^read]|
 Oct 3|[Becky](http://pulliamlab.org/people/borchering)|TBA|
 Oct 10|[Jake](http://pulliamlab.org/people/ball)|TBA|
