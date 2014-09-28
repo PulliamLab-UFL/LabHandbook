@@ -33,7 +33,7 @@ Nov 14|Cuc|TBA|
 Nov 21|TBA|TBA|
 Dec 5|TBA|TBA|
 
-[^read]: Debate over US research funding. Readings: To be posted.
+[^read]: Debate over US research funding. Readings: Alberts _et al_. PNAS.
 [^homecoming]: UF's Homecoming.
 
 ### Summer 2014
