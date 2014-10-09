@@ -26,12 +26,12 @@ Sep 26|[Juliet](http://pulliamlab.org/people/pulliam)|Discussion[^read]|
 Oct 3|[Becky](http://pulliamlab.org/people/borchering)|TBA|
 Oct 10|[Jake](http://pulliamlab.org/people/ball)|TBA|
 Oct 17[^homecoming]|TBA|TBA|
-Oct 24|[Carl](http://pulliamlab.org/people/pearson)|TBA|
+Oct 24|TBA|TBA|
 Oct 31|[Jennie](http://pulliamlab.org/people/lord)|TBA|
 Nov 7|[Luke](http://pulliamlab.org/people/trimmersmith)|TBA|
 Nov 14|Cuc|TBA|
 Nov 21|TBA|TBA|
-Dec 5|TBA|TBA|
+Dec 5|[Carl](http://pulliamlab.org/people/pearson)|Replicating CDC and WHO Ebola Models|
 
 [^read]: Debate over US research funding. Readings: Alberts _et al_. PNAS.
 [^homecoming]: UF's Homecoming.
