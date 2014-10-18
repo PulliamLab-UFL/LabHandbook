@@ -23,18 +23,17 @@ Sep 5|[Steph](http://pulliamlab.org/people/cinkovich)|Parasites of western micro
 Sep 12|Claudia|Social media-based ID surveillance|
 Sep 19|[Jess](http://pulliamlab.org/people/rowland)|PPR eradication|
 Sep 26|[Juliet](http://pulliamlab.org/people/pulliam)|Discussion[^read]|
-Oct 3|[Becky](http://pulliamlab.org/people/borchering)|TBA|
-Oct 10|[Jake](http://pulliamlab.org/people/ball)|TBA|
-Oct 17[^homecoming]|TBA|TBA|
-Oct 24|[Carl](http://pulliamlab.org/people/pearson)|TBA|
+Oct 3|[Becky](http://pulliamlab.org/people/borchering)|Jackal rabies project|
+Oct 10|[Jake](http://pulliamlab.org/people/ball)|HIV treatment decisions|
+Oct 17| |Homecoming|
+Oct 24|Juliet and Steph|Ebola|
 Oct 31|[Jennie](http://pulliamlab.org/people/lord)|TBA|
 Nov 7|[Luke](http://pulliamlab.org/people/trimmersmith)|TBA|
 Nov 14|Cuc|TBA|
-Nov 21|TBA|TBA|
+Nov 21|[Carl](http://pulliamlab.org/people/pearson)|TBA|
 Dec 5|TBA|TBA|
 
-[^read]: Debate over US research funding. Readings: Alberts _et al_. PNAS.
-[^homecoming]: UF's Homecoming.
+[^read]: Debate over US research funding. Readings: Alberts _et al_. _PNAS_.
 
 ### Summer 2014
 
