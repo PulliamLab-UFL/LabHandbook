@@ -27,11 +27,11 @@ Oct 3|[Becky](http://pulliamlab.org/people/borchering)|Jackal rabies project|
 Oct 10|[Jake](http://pulliamlab.org/people/ball)|HIV treatment decisions|
 Oct 17| |Homecoming|
 Oct 24|Juliet and Steph|Ebola|
-Oct 31|[Jennie](http://pulliamlab.org/people/lord)|TBA|
-Nov 7|[Luke](http://pulliamlab.org/people/trimmersmith)|TBA|
+Oct 31|[Jennie](http://pulliamlab.org/people/lord)|Poster and presentation review|
+Nov 7|[Luke](http://pulliamlab.org/people/trimmersmith)|Sigma virus|
 Nov 14|Cuc|TBA|
-Nov 21|[Carl](http://pulliamlab.org/people/pearson)|TBA|
-Dec 5|TBA|TBA|
+Nov 21|TBA|TBA|
+Dec 5|[Carl](http://pulliamlab.org/people/pearson)|Replicating CDC and WHO Ebola Models|
 
 [^read]: Debate over US research funding. Readings: Alberts _et al_. _PNAS_.
 
