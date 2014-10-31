@@ -29,7 +29,7 @@ Oct 17| |Homecoming|
 Oct 24|[Juliet](http://pulliamlab.org/people/pulliam) and [Steph](http://pulliamlab.org/people/cinkovich)|Ebola|
 Oct 31|[Jennie](http://pulliamlab.org/people/lord)|Poster and presentation review|
 Nov 7|[Luke](http://pulliamlab.org/people/trimmersmith)|Sigma virus|
-Nov 14|Tom|Dengue vaccination modeling|
+Nov 14|[Tom](http://pulliamlab.org/people/hladish)|Dengue vaccination modeling|
 Nov 21|Cuc|SLIV program|
 Dec 5|[Carl](http://pulliamlab.org/people/pearson)|Replicating CDC and WHO Ebola Models|
 
