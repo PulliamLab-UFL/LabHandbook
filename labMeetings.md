@@ -17,7 +17,7 @@ Lab meetings are held on Fridays from 12:30-1:30pm at [EPI](http://epi.ufl.edu "
 ### Fall 2014
 
 Date|Presenter|Topic|
-:--:|:--:|:--:|
+:--:|:--:|:----:|
 Aug 29|[Becky](http://pulliamlab.org/people/borchering)|Jackal rabies project|
 Sep 5|[Steph](http://pulliamlab.org/people/cinkovich)|Parasites of western microbats|
 Sep 12|Claudia|Social media-based ID surveillance|
@@ -26,7 +26,7 @@ Sep 26|[Juliet](http://pulliamlab.org/people/pulliam)|Discussion[^read]|
 Oct 3|[Becky](http://pulliamlab.org/people/borchering)|Jackal rabies project|
 Oct 10|[Jake](http://pulliamlab.org/people/ball)|HIV treatment decisions|
 Oct 17| |Homecoming|
-Oct 24|Juliet and Steph|Ebola|
+Oct 24|[Juliet](http://pulliamlab.org/people/pulliam) and [Steph](http://pulliamlab.org/people/cinkovich)|Ebola|
 Oct 31|[Jennie](http://pulliamlab.org/people/lord)|Poster and presentation review|
 Nov 7|[Luke](http://pulliamlab.org/people/trimmersmith)|Sigma virus|
 Nov 14|Cuc|TBA|
