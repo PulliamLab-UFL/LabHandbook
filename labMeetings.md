@@ -24,13 +24,13 @@ Jan 16|[Juliet](http://pulliamlab.org/people/pulliam)|CV updates and review|
 Jan 23|Meghan|Published errors|
 Jan 30|Alexander|Cholera in Haiti|
 Feb 6|[Becky](http://pulliamlab.org/people/borchering)|Presentation do's and don'ts|
-Feb 13|TBD|TBD|
+Feb 13|Steph|JEV protocol|
 Feb 20|Gaby|TBD|
 Feb 27|TBD|TBD|
 Mar 6| |Spring Break|
 Mar 13|Cuc|Practice defense|
 Mar 20|TBD|TBD|
-Mar 27|TBD|TBD|
+Mar 27 [1-5pm]|Becky|Writing efficient R code|
 Apr 3|TBD|TBD|
 Apr 10|TBD|TBD|
 Apr 17|TBD|TBD|
