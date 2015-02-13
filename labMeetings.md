@@ -29,7 +29,7 @@ Feb 20|Gaby|TBD|
 Feb 27|TBD|TBD|
 Mar 6| |Spring Break|
 Mar 13|Cuc|Practice defense|
-Mar 20|TBD|TBD|
+Mar 20|Omar|TBD|
 Mar 27 [1-5pm]|Becky|Writing efficient R code|
 Apr 3|TBD|TBD|
 Apr 10|Jake|Impacts of EVD on PH infrastructure|
