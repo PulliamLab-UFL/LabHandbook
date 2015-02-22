@@ -26,11 +26,11 @@ Jan 30|Alexander|Cholera in Haiti|
 Feb 6|[Becky](http://pulliamlab.org/people/borchering)|Presentation do's and don'ts|
 Feb 13|[Steph](http://pulliamlab.org/people/cinkovich)|JEV protocol|
 Feb 20|Gaby|TBD|
-Feb 27|TBD|TBD|
+Feb 27 [1-5pm]|Becky|Writing efficient R code|
 Mar 6| |Spring Break|
 Mar 13|Cuc|Practice defense|
 Mar 20|Omar|TBD|
-Mar 27 [1-5pm]|Becky|Writing efficient R code|
+Mar 27|TBD|TBD|
 Apr 3|TBD|TBD|
 Apr 10|Jake|Impacts of EVD on PH infrastructure|
 Apr 17|TBD|TBD|
