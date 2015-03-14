@@ -20,7 +20,7 @@ Lab meetings are held on Fridays from 1:00-2:00pm at [EPI](http://epi.ufl.edu "E
 Date|Presenter|Topic|
 :--:|:--:|:----:|
 Jan 9|[Juliet](http://pulliamlab.org/people/pulliam)|[Journal Watch](http://handbook.pulliamlab.org/journalWatch)|
-Jan 16|[Juliet](http://pulliamlab.org/people/pulliam)|CV updates and review|
+Jan 16|[Everyone](http://pulliamlab.org/people/)|CV updates and review|
 Jan 23|Meghan|Published errors|
 Jan 30|Alexander|Cholera in Haiti|
 Feb 6|[Becky](http://pulliamlab.org/people/borchering)|Presentation do's and don'ts|
@@ -64,6 +64,30 @@ This year, summer lab meetings will focus on building foundational skills in inf
 
 As preparation, you will need to create a branch of [this repository](https://github.com/PulliamLab-UFL/summer2014) to work in. [This page](branch.html) provides instructions for how to get started. Note that you will only be able to create a branch if you are a member of the [pulliamlab-everyone-RW](https://github.com/orgs/PulliamLab-UFL/teams/pulliamlab-everyone-rw/) team within the [PulliamLab-UFL](https://github.com/PulliamLab-UFL) organization on GitHub, but anyone can fork the repository and work on the exercises.
 
-### Fall 2012 - Spring 2014
+
+### Spring 2014
+
+Date|Presenter|Topic|
+:--:|:--:|:----:|
+Jan 10|[Jennie](http://pulliamlab.org/people/lord)|Fieldwork in Bangladesh|
+Jan 17|[Juliet](http://pulliamlab.org/people/pulliam)|CV updates and review|
+Jan 24|[Juliet](http://pulliamlab.org/people/pulliam)|Lab poster|
+Jan 31|[Everyone](http://pulliamlab.org/people/)|Website blurbs|
+Feb 7| |Grad recruitment weekend|
+Feb 14|Cuc|Ethics problems|
+Feb 21|[Jennie](http://pulliamlab.org/people/lord)|Data management|
+Feb 28|[Juliet](http://pulliamlab.org/people/pulliam)|Pathway to publishing|
+Mar 7| |Spring Break|
+Mar 14|Nick|Malaria models|
+Mar 21|[Jake](http://pulliamlab.org/people/ball)|Chagas|
+Mar 28|[Everyone](http://pulliamlab.org/people/)|[Journal Watch](http://handbook.pulliamlab.org/journalWatch)|
+Apr 4|Gaby|Dengue replication model|
+Apr 11|[Carl](http://pulliamlab.org/people/pearson)|Fermi problems|
+Apr 18|Lindsay|Finite reproduction numbers|
+Apr 25|Ajit|JEV in frogs|
+May 2|[Luke](http://pulliamlab.org/people/trimmersmith)|Interpreting statistics|
+May 9|[Juliet](http://pulliamlab.org/people/pulliam)|Time management|
+
+### Fall 2012 - Fall 2013
 
 To be added.
