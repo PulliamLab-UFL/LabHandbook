@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+{%include head.html%}
+<body>
+{%include header.html%}
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+
+  {% if {{page.subtitle}} != "Table of Contents" %}
+
+    <p><em>Return to the <a href="index.html">Table of Contents</a>.</em></p>
+
+    <h1 id="{{page.subtitle}}">{{page.subtitle}}</h1>
+  {% endif %}
+
+{{content}}
+      </section>
+    </div>
+{%include footer.html %}
+</body>
+</html>
