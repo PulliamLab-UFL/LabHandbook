@@ -29,7 +29,7 @@ Feb 20|Gaby|TBD|
 Feb 27 [1-5pm]|[Becky](http://pulliamlab.org/people/borchering)|Writing efficient R code|
 Mar 6| |Spring Break|
 Mar 13|Cuc|Practice defense|
-Mar 20|[Omar](http://pulliamlab.org/people/saucedo)|TBD|
+Mar 20|[Omar](http://pulliamlab.org/people/saucedo)|Shrimp dynamics|
 Mar 27|TBD|TBD|
 Apr 3|TBD|TBD|
 Apr 10|[Jake](http://pulliamlab.org/people/ball)|Impacts of EVD on PH infrastructure|
@@ -63,7 +63,6 @@ Dec 5|[Carl](http://pulliamlab.org/people/pearson)|Replicating CDC and WHO Ebola
 This year, summer lab meetings will focus on building foundational skills in infectious disease dynamics, through essential reading and  [exercises](http://www.pulliamlab.org/summer2014/) based on the papers we read. The exercises will also provide an opportunity to gain additional [GitHub](http://github.com/) skills and experience.
 
 As preparation, you will need to create a branch of [this repository](https://github.com/PulliamLab-UFL/summer2014) to work in. [This page](branch.html) provides instructions for how to get started. Note that you will only be able to create a branch if you are a member of the [pulliamlab-everyone-RW](https://github.com/orgs/PulliamLab-UFL/teams/pulliamlab-everyone-rw/) team within the [PulliamLab-UFL](https://github.com/PulliamLab-UFL) organization on GitHub, but anyone can fork the repository and work on the exercises.
-
 
 ### Spring 2014
 
