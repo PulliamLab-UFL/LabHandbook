@@ -30,12 +30,12 @@ Feb 27 [1-5pm]|[Becky](http://pulliamlab.org/people/borchering)|Writing efficien
 Mar 6| |Spring Break|
 Mar 13|Cuc|Practice defense|
 Mar 20|[Omar](http://pulliamlab.org/people/saucedo)|Shrimp dynamics|
-Mar 27|TBD|TBD|
-Apr 3|TBD|TBD|
+Mar 27|[Tom](http://pulliamlab.org/people/hladish)|[Journal Watch](http://handbook.pulliamlab.org/journalWatch)|
+Apr 3|[Everyone](http://pulliamlab.org/people/)|[Website](http://pulliamlab.org)|
 Apr 10|[Jake](http://pulliamlab.org/people/ball)|Impacts of EVD on PH infrastructure|
 Apr 17|[Jess](http://pulliamlab.org/people/rowland)|TBD|
-Apr 24|TBD|TBD|
-May 1|TBD|TBD|
+Apr 24|[Brooke](http://pulliamlab.org/people/borgert)|TBD|
+May 1|[Everyone](http://pulliamlab.org/people/)|[Ichetucknee](https://www.floridastateparks.org/park/Ichetucknee-Springs)|
 
 ### Fall 2014
 
