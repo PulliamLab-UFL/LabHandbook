@@ -13,9 +13,10 @@ subtitle: Software
 
 ## Required user accounts
 
-- [**Mendeley**](http://www.mendeley.com)
+- [**Mendeley**](http://www.mendeley.com) for reference management and participation in Journal Watch
 - [**GitHub**](http://www.github.com) - You can request up to 5 free private repositories if you sign up with your University email address, by filling out [this form](
 https://education.github.com/discount_requests/new).
+- [**Google Plus**](http://plus.google.com) for remote participation in lab meetings
 
 ## Recommended software
 
