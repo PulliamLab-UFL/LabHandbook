@@ -36,7 +36,7 @@ Apr 10|[Jake](http://pulliamlab.org/people/ball)|Impacts of EVD on PH infrastruc
 Apr 17|[Jess](http://pulliamlab.org/people/rowland)|Boolean logic for systematic reviews|
 Apr 24|[Brooke](http://pulliamlab.org/people/borgert)|TBD|
 May 1|[Everyone](http://pulliamlab.org/people/)|[Ichetucknee](https://www.floridastateparks.org/park/Ichetucknee-Springs)|
-May 15|[Tom](http://pulliamlab.org/people/hladish)|Dengue simulation and model fitting|
+May 22|[Tom](http://pulliamlab.org/people/hladish)|Dengue simulation and model fitting|
 
 ### Fall 2014
 
