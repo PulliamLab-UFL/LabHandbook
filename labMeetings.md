@@ -21,11 +21,11 @@ Date|Presenter|Topic|
 :--:|:--:|:----:|
 Jan 9|[Juliet](http://pulliamlab.org/people/pulliam)|[Journal Watch](http://handbook.pulliamlab.org/journalWatch)|
 Jan 16|[Everyone](http://pulliamlab.org/people/)|CV updates and review|
-Jan 23|Meghan|Published errors|
+Jan 23|[Meghan](http://pulliamlab.org/people/bentz)|Published errors|
 Jan 30|Alexander|Cholera in Haiti|
 Feb 6|[Becky](http://pulliamlab.org/people/borchering)|Presentation do's and don'ts|
 Feb 13|[Steph](http://pulliamlab.org/people/cinkovich)|JEV protocol|
-Feb 20|Gaby|TBD|
+Feb 20|[Gaby]((http://pulliamlab.org/people/blohm))|TBD|
 Feb 27 [1-5pm]|[Becky](http://pulliamlab.org/people/borchering)|Writing efficient R code|
 Mar 6| |Spring Break|
 Mar 13|Cuc|Practice defense|
@@ -36,7 +36,7 @@ Apr 10|[Jake](http://pulliamlab.org/people/ball)|Impacts of EVD on PH infrastruc
 Apr 17|[Jess](http://pulliamlab.org/people/rowland)|Boolean logic for systematic reviews|
 Apr 24|[Brooke](http://pulliamlab.org/people/borgert)|TBD|
 May 1|[Everyone](http://pulliamlab.org/people/)|[Ichetucknee](https://www.floridastateparks.org/park/Ichetucknee-Springs)|
-May 1|[Tom](http://pulliamlab.org/people/hladish)|TBD|
+May 15|[Tom](http://pulliamlab.org/people/hladish)|Dengue simulation and model fitting|
 
 ### Fall 2014
 
