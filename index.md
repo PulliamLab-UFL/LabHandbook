@@ -9,7 +9,7 @@ The Pulliam Lab Handbook
 
 Table of Contents
 
-1. [Software](software.html)
-2. [Lab Meetings](labMeetings.html)
-3. [Weekly Meetings](weeklyMeetings.html)
-4. [Journal Watch](journalWatch.html)
+1. [Software](./software)
+2. [Lab Meetings](./labMeetings)
+3. [Weekly Meetings](./weeklyMeetings)
+4. [Journal Watch](./journalWatch)
