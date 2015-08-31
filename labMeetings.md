@@ -10,10 +10,29 @@ All [lab members and affiliates](http://pulliamlab.org/people) are expected to a
 
 ## Schedule
 
-
-Lab meetings are held on Fridays from 1:00-2:00pm at [EPI](http://epi.ufl.edu "EPI @ UF"). Spring 2015 lab meetings will be held in the second floor conference room.
+Fall 2015 lab meetings are held on Fridays from 4:00-5:00pm in Room 521 Carr Hall.
 
 ## Topics
+
+### Spring 2015
+
+Date|Presenter|Topic|
+:--:|:--:|:----:|
+Sep 4|[Juliet](http://pulliamlab.org/people/pulliam)|100 word essays|
+Sep 11|[Everyone](http://pulliamlab.org/people/)|[Journal Watch](http://handbook.pulliamlab.org/journalWatch) Reboot|
+Sep 18|TBD|TBD|
+Sep 25|TBD|TBD|
+Oct 2|TBD|TBD|
+Oct 9|TBD|TBD|
+Oct 16|TBD|TBD|
+Oct 23|[Steph](http://pulliamlab.org/people/cinkovich)|TBD|
+Oct 30|TBD|TBD|
+Nov 6|TBD|TBD|
+Nov 13|TBD|TBD|
+Nov 20|TBD|TBD|
+Nov 27| |Thanksgiving Break|
+Dec 4| |[Epidemics 5](http://www.epidemics.elsevier.com/)|
+Dec 11|TBD|TBD|
 
 ### Spring 2015
 
