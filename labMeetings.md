@@ -20,19 +20,19 @@ Date|Presenter|Topic|
 :--:|:--:|:----:|
 Sep 4|[Juliet](http://pulliamlab.org/people/pulliam)|100 word essays|
 Sep 11|[Everyone](http://pulliamlab.org/people/)|[Journal Watch](http://handbook.pulliamlab.org/journalWatch) Reboot|
-Sep 18|TBD|TBD|
-Sep 25|TBD|TBD|
-Oct 2|TBD|TBD|
-Oct 9|TBD|TBD|
-Oct 16|TBD|TBD|
-Oct 23|[Steph](http://pulliamlab.org/people/cinkovich)|TBD|
-Oct 30|TBD|TBD|
-Nov 6|TBD|TBD|
-Nov 13|TBD|TBD|
-Nov 20|TBD|TBD|
+Sep 18|Becky](http://pulliamlab.org/people/borchering)|resource-driven encounters and disease invasion risk|
+Sep 25|[Jake](http://pulliamlab.org/people/ball)|side project|
+Oct 2|Becky](http://pulliamlab.org/people/borchering)|rabies in small carnivores|
+Oct 9|[Juliet](http://pulliamlab.org/people/pulliam)|teaching techniques|
+Oct 16|None||
+Oct 23|[Steph](http://pulliamlab.org/people/cinkovich)|JEV in Bangladesh|
+Oct 30|[Tom](http://pulliamlab.org/people/hladish)|TBD|
+Nov 6|Nick|malaria and movement|
+Nov 13|[Jake](http://pulliamlab.org/people/ball)|model assumptions|
+Nov 20|Kyra|1918 flu in Chicago|
 Nov 27| |Thanksgiving Break|
 Dec 4| |[Epidemics 5](http://www.epidemics.elsevier.com/)|
-Dec 11|TBD|TBD|
+Dec 11|Jordan|intervention intervals for rabies prevention|
 
 ### Spring 2015
 
