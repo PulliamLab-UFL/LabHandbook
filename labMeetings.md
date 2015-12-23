@@ -20,9 +20,9 @@ Date|Presenter|Topic|
 :--:|:--:|:----:|
 Sep 4|[Juliet](http://pulliamlab.org/people/pulliam)|100 word essays|
 Sep 11|[Everyone](http://pulliamlab.org/people/)|[Journal Watch](http://handbook.pulliamlab.org/journalWatch) Reboot|
-Sep 18|Becky](http://pulliamlab.org/people/borchering)|resource-driven encounters and disease invasion risk|
+Sep 18|[Becky](http://pulliamlab.org/people/borchering)|resource-driven encounters and disease invasion risk|
 Sep 25|[Jake](http://pulliamlab.org/people/ball)|side project|
-Oct 2|Becky](http://pulliamlab.org/people/borchering)|rabies in small carnivores|
+Oct 2|[Becky](http://pulliamlab.org/people/borchering)|rabies in small carnivores|
 Oct 9|[Juliet](http://pulliamlab.org/people/pulliam)|teaching techniques|
 Oct 16|None||
 Oct 23|[Steph](http://pulliamlab.org/people/cinkovich)|JEV in Bangladesh|
