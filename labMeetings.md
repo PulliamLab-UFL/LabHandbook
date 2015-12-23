@@ -14,7 +14,7 @@ Fall 2015 lab meetings are held on Fridays from 4:00-5:00pm in Room 521 Carr Hal
 
 ## Topics
 
-### Spring 2015
+### Fall 2015
 
 Date|Presenter|Topic|
 :--:|:--:|:----:|
